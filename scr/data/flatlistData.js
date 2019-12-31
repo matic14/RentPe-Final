@@ -1,0 +1,86 @@
+var flatlistData =[
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta44",
+    "price" : "Rs 8000",
+    "bhk" : "1BHK",
+    "location" : "VijayNagar",
+    "furnished" : "Full-Furnished",
+    "imageURL" : "http://room-dekho.com/rent/oc-content/uploads/6/1027.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta45",
+    "price" : "Rs 10000",
+    "bhk" : "2BHK",
+    "location" : "Palasiya",
+    "furnished" : "Semi-Furnished",
+    "imageURL" : "http://room-dekho.com/rent/oc-content/uploads/3/357.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta46",
+    "price" : "Rs 7000",
+    "bhk" : "1BHK",
+    "location" : "BhawarKua",
+    "furnished" : "No-Furnished",
+    "imageURL" : "https://imgs.nestimg.com/3bhk_villa_indore_110542695845712487.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta47",
+    "price" : "Rs 11000",
+    "bhk" : "3BHK",
+    "location" : "Dewas-Naka",
+    "furnished" : "Semi-Furnished",
+    "imageURL" : "https://imganuncios.mitula.net/3_bhk_independent_house_for_rent_in_indore_1700078537437728659.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta48",
+    "price" : "Rs 7000",
+    "bhk" : "1BHK",
+    "location" : "VijayNagar",
+    "furnished" : "Semi-Furnished",
+    "imageURL" : "http://room-dekho.com/rent/oc-content/uploads/8/1552.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta49",
+    "price" : "Rs 9000",
+    "bhk" : "1BHK",
+    "location" : "Khajrana",
+    "furnished" : "Furnished",
+    "imageURL" : "https://cdn1.goibibo.com/t_srp/gokul-home-stay-indore-indore-gokul-homestay-7-142787264336-orig.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta50",
+    "price" : "Rs 8000",
+    "bhk" : "1BHK",
+    "location" : "VijayNagar",
+    "furnished" : "Furnished",
+    "imageURL" : "http://room-dekho.com/rent/oc-content/uploads/6/885.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta51",
+    "price" : "Rs 1200",
+    "bhk" : "2BHK",
+    "location" : "LIG",
+    "furnished" : "Fully-Furnished",
+    "imageURL" : "http://room-dekho.com/rent/oc-content/uploads/6/1027.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta52",
+    "price" : "Rs 7000",
+    "bhk" : "1BHK",
+    "location" : "Bhawarkua",
+    "furnished" : "No-Furnished",
+    "imageURL" : "https://imgs.nestimg.com/3bhk_house_indore_110220562890639207.jpg",
+},
+{
+    "key" : "454122fjdsfjb5775sdghsgdhta53",
+    "price" : "Rs 1100",
+    "bhk" : "2BHK",
+    "location" : "Scheme-48",
+    "furnished" : "Semi-Furnished",
+    "imageURL" : "https://imgs.nestimg.com/2_bhk_villa_for_sale_in_mj_nagar_hospet_110740697932126631.jpg",
+},
+
+
+];
+
+module.exports = flatlistData;
